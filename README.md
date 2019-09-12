@@ -6,7 +6,9 @@ very short intro to R
 Open RStudio
 
 > `install.packages("swirl")`
+
 > `library(swirl)`
+
 > `install_course("A_(very)_short_introduction_to_R")`
 
 > `swirl()`
